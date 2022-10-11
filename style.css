@@ -1,0 +1,30 @@
+body 
+{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-image: url("Forest.jfif");
+    background-size: 100%;
+}
+
+header
+{
+    display: block;
+    padding: 0.5%;
+    color: #fffffff1;
+    font-size: 15px;
+    background-color: rgba(0, 130, 182, 0.623);
+}
+
+
+header h1
+{
+    font-size: 30px;
+}
+
+
+.name
+{
+    position: absolute;
+    left: 45%;
+    top: 5%;
+}
