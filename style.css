@@ -10,9 +10,8 @@ body
 header
 {
     display: block;
-    padding: 0.5%;
+    padding: 5%;
     color: #fffffff1;
-    font-size: 15px;
     background-color: rgba(0, 130, 182, 0.623);
 }
 
@@ -49,6 +48,15 @@ a
 {
     display: block;
     color: rgb(255, 255, 255);
-    padding: 8px 16px;
+    padding: 20% 1%;
     text-decoration: none;
+}
+
+p
+{
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 1% 950%;
+    text-decoration: none;
+    white-space: nowrap;
 }
